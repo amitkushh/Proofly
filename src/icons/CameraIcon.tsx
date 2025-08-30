@@ -7,7 +7,7 @@ function CameraIcon() {
       viewBox="0 0 20 20"
       fill="#000000"
     >
-      <g fill="#000000" fill-rule="evenodd" clip-rule="evenodd">
+      <g fill="#000000" fillRule="evenodd" clipRule="evenodd">
         <path
           d="M13 6.5H7A2.5 2.5 0 0 0 4.5 9v5A2.5 2.5 0 0 0 7 16.5h6a2.5 2.5 0 0 0 2.5-2.5v-.024l2.348 1.565a.5.5 0 0 0 .777-.416v-7a.5.5 0 0 0-.777-.416L15.5 9.274V9A2.5 2.5 0 0 0 13 6.5Z"
           opacity=".2"
